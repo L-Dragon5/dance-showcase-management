@@ -1,0 +1,4 @@
+name: dance-showcase-management
+recipe: laravel
+config:
+  webroot: public
